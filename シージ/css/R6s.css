@@ -1,0 +1,61 @@
+header {
+ background-color: #555555;
+}
+body {
+    background-color: firebrick;
+}
+.page {
+    display: flex;
+}
+.flex-container {
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+}
+.center {
+    width: 65%;
+}
+.sidebar {
+    width: 35% ;
+}
+.sidemenu {
+    background-color: #222222;
+    
+}
+.whatnew {
+    background-color: black;
+}
+.products{
+    background-color: gray;
+}
+.social {
+    background-color: blue
+}
+.special {
+    background-color: blueviolet
+}
+.center{
+    background-color: green;
+    width: 70%
+}
+.footer {
+    background-color: pink;
+}
+.flex-container {
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+}
+img {
+    width: auto;
+    height: 200px;
+}
+.logo {
+        flex-direction: column;
+}
+.logo img {
+    width: auto;
+    height: auto;
+    padding: 7.5px 20px 0px;
+}
+.png2 {
+    margin: 0px 50px 0px;
+}
